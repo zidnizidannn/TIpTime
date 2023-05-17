@@ -1,1 +1,2 @@
-# TIpTime
+# TipTime
+##Project Layout Android Studio
